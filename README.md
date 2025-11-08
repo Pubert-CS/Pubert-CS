@@ -5,6 +5,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pubert-cs" alt="pubert-cs" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
+@pubertcs on discord
 <p align="left">
 </p>
 
